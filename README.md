@@ -5,7 +5,7 @@
 ## Introduction
 
 This repository contains course notes for the different modules part
-of the BSc. CS degree from Univerity of London.
+of the BSc. CS degree from the Univerity of London.
 
 Most of the work is created by students who have contributed their
 collected course notes to this repository to share with the rest of
@@ -22,5 +22,5 @@ large as that makes it difficult for students who want to start
 contributing in the future.
 
 For now, there are no enforced rules, but as an example, we have
-course notes for entire semester of a course fitting in less than
+course notes for the entire semester of a course fitting in less than
 1MiB.
